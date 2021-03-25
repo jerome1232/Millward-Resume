@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Preston's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Preston Millward
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mil18037@byui.edu">mil18037@byui.edu</a>
+| <a href="https://display-of-my-projects.glitch.me/">Project Site</a>
+| <a href="https://www.linkedin.com/in/preston-millward/">LinkedIn</a>
+| <a href="https://github.com/millieTime">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
