@@ -28,7 +28,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `May 2018 - July 2018`
 __<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App Developer
 
-- Researched and developed an Android mobile app from scratch.
+- Developed a mobile app for elementary students to practice math facts.
+- Used Java in Android Studio and Gradle to produce a publishable APK.
 - Communicated with client weekly if not daily to receive feedback and implement new functionality.
 - Achieved 100% of client's requests before deadlines through productive planning.
 
@@ -37,8 +38,9 @@ __<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App D
 __<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_Award_winners.pdf">AH Nickless Innovation Award Competition</a>__, Team Lead App Developer
 
 - Designed and built an app to detect when users were in danger and contact local security.
-- Learned Java in Android Studio to build an android application using geofencing to mitigate false alarms and automatically connect users to nearest authorities in case of danger.
-- Won first place and a total of $40,000.
+- Learned Java in Android Studio to build an android application, and began translating it to Swift.
+- Leveraged geofencing to mitigate false alarms and auto-detect nearest authorities.
+- Won first place and a total of $40,000
 
 ### Web Development
 
@@ -46,10 +48,10 @@ __<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_
 `September 2020 - January 2021`
 Solo JavaScript Developer
 
+- Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
 - Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
 - Implemented SoundCloud Widgets and CORS guidelines in interacting with external domains.
 - Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
-- Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
 
 ## Service and Work History
 
