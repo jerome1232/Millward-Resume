@@ -42,8 +42,7 @@ __AH Nickless Innovation Award Competition__, Team Lead App Developer
 
 ### Web Development
 
-`January 2018 - April 2018`
-`September 2020 - January 2021`
+`January 2018 - January 2021`
 Solo JavaScript Developer
 
 - Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
