@@ -24,7 +24,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Android Development
 
-
 `May 2018 - July 2018`
 __<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App Developer
 
@@ -32,7 +31,6 @@ __<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App D
 - Used Java in Android Studio and Gradle to produce a publishable APK.
 - Communicated with client weekly if not daily to receive feedback and implement new functionality.
 - Achieved 100% of client's requests before deadlines through productive planning.
-
 
 `August 2017 - April 2018`
 __<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_Award_winners.pdf">AH Nickless Innovation Award Competition</a>__, Team Lead App Developer
@@ -50,8 +48,18 @@ Solo JavaScript Developer
 
 - Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
 - Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
-- Implemented SoundCloud Widgets and CORS guidelines in interacting with external domains.
+- Implemented SoundCloud Widgets and Cross-Origin Resource Sharing guidelines in interacting with external domains.
 - Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
+
+### Python Development
+
+`February 2021`
+__<a href="https://byuiscroll.org/byu-idahos-first-hack-week/">BYUI Hack Week 2021</a>__
+Python Web App Developer
+
+- Created a Web App for generating music based on songs the user selected.
+- Learned Python Flask to showcase a Tensor Flow Generative Adversarial Neural Network using Spotify API to generate similar music.
+- Won most creative out of 30 teams.
 
 ## Service and Work History
 
