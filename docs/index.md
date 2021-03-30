@@ -26,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 `May 2018 - July 2018`
-__Move It Math__, Freelance App Developer
+__<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App Developer
 
 - Researched and developed an Android mobile app from scratch.
 - Communicated with client weekly if not daily to receive feedback and implement new functionality.
@@ -34,15 +34,16 @@ __Move It Math__, Freelance App Developer
 
 
 `August 2017 - April 2018`
-__AH Nickless Innovation Award Competition__, Team Lead App Developer
+__<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_Award_winners.pdf">AH Nickless Innovation Award Competition</a>__, Team Lead App Developer
 
 - Designed and built an app to detect when users were in danger and contact local security.
-- Used Java in Android Studio to build an android application with geofencing to mitigate false alarms and automatically connect users to nearest authorities in case of danger.
+- Used Java in Android Studio to build an android application using geofencing to mitigate false alarms and automatically connect users to nearest authorities in case of danger.
 - Won first place and a total of $40,000.
 
 ### Web Development
 
-`January 2018 - January 2021`
+`January 2018 - April 2018`
+`September 2020 - January 2021`
 Solo JavaScript Developer
 
 - Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
@@ -68,5 +69,3 @@ __Service Missionary__, Fort Worth, Texas
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
