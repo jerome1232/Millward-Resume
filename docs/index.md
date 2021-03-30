@@ -56,7 +56,7 @@ Python Web App Developer
 Solo JavaScript Developer
 
 - Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
-- Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
+- Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with utilizing CSS, HTML, and JavaScript.
 - Implemented SoundCloud Widgets and Cross-Origin Resource Sharing guidelines in interacting with external domains.
 - Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
 
