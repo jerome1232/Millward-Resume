@@ -40,17 +40,6 @@ __<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_
 - Leveraged geofencing to mitigate false alarms and auto-detect nearest authorities.
 - Won first place and a total of $40,000
 
-### Web Development
-
-`January 2018 - April 2018`
-`September 2020 - January 2021`
-Solo JavaScript Developer
-
-- Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
-- Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
-- Implemented SoundCloud Widgets and Cross-Origin Resource Sharing guidelines in interacting with external domains.
-- Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
-
 ### Python Development
 
 `February 2021`
@@ -60,6 +49,16 @@ Python Web App Developer
 - Created a Web App for generating music based on songs the user selected.
 - Learned Python Flask to showcase a Tensor Flow Generative Adversarial Neural Network using Spotify API to generate similar music.
 - Won most creative out of 30 teams.
+
+### Web Development
+
+`January 2018 - January 2021`
+Solo JavaScript Developer
+
+- Designed an <a href="https://display-of-my-projects.glitch.me/SuperHex.html">audio visualizer</a> using the Web Audio API and canvas element.
+- Crafted a <a href="https://display-of-my-projects.glitch.me/SuperHex.html">rhythm game </a>with over 1,300 lines of combined CSS, HTML, and JS.
+- Implemented SoundCloud Widgets and Cross-Origin Resource Sharing guidelines in interacting with external domains.
+- Profiled and optimized scripts to decrease memory usage by 50% and load times by 20%.
 
 ## Service and Work History
 
