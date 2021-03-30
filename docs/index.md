@@ -37,7 +37,7 @@ __<a href="https://moveitmaththesource.com/">Move It Math</a>__, Freelance App D
 __<a href="https://ahninnovationaward.com/Documents/2018_AH_Nickless_Innovation_Award_winners.pdf">AH Nickless Innovation Award Competition</a>__, Team Lead App Developer
 
 - Designed and built an app to detect when users were in danger and contact local security.
-- Used Java in Android Studio to build an android application using geofencing to mitigate false alarms and automatically connect users to nearest authorities in case of danger.
+- Learned Java in Android Studio to build an android application using geofencing to mitigate false alarms and automatically connect users to nearest authorities in case of danger.
 - Won first place and a total of $40,000.
 
 ### Web Development
